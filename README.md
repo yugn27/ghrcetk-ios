@@ -1,2 +1,2 @@
-# ghrcetk-ios
-ios app for ghrce.tk
+# Atal-Chapter-iOS
+iOS App for Atal Chapter
